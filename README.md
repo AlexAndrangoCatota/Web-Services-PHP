@@ -10,5 +10,7 @@
 
 Nota: es recomendable agregar los complementos necesarios de PHP a Visual Studio Code
 
+![Captura 2](https://github.com/AlexAndrangoCatota/Web-Services-PHP/blob/main/Capturas%20de%20pantalla/2.-%20complementos.jpg?raw=true)
+
 2.2- Xampp para levantar el servidor 
 
