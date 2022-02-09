@@ -11,23 +11,23 @@ Se utilizó como IDE de desarrollo, Visual Studio Code (https://code.visualstudi
 
 Nota: Es recomendable agregar los complementos necesarios de PHP a Visual Studio Code
 
-![Captura 2]()
+![Captura 2](https://github.com/AlexAndrangoCatota/Web-Services-PHP/blob/main/Capturas%20de%20pantalla/2.-complentos%20php.JPG?raw=true)
 
 1.2- Xampp  
 -------
 Se utilizó el servidor Xampp para levantar el servidor (https://www.apachefriends.org/es/download.html)
 
-![Captura 3]()
+![Captura 3](https://github.com/AlexAndrangoCatota/Web-Services-PHP/blob/main/Capturas%20de%20pantalla/3.-Xampp.jpg?raw=true)
 
 Nota: Se recomienda luego de la instalación, eliminar el archivo xampp-control.ini que está ubicado en C:\xampp, esto es para poder tener los permisos que se requieren para poder modificar los puertos en el caso que se requiera.
 
-![Captura 4]()
+![Captura 4](https://github.com/AlexAndrangoCatota/Web-Services-PHP/blob/main/Capturas%20de%20pantalla/4.-eliminar.jpg?raw=true)
 
 1.3.- Postman
 -------
 Se utilizó postman realizar pruebas API
 
-![Captura 5]()
+![Captura 5](https://github.com/AlexAndrangoCatota/Web-Services-PHP/blob/main/Capturas%20de%20pantalla/5.-Postman.jpg?raw=true)
 
 #
 2.- Web Service
