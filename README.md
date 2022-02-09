@@ -37,21 +37,21 @@ Se utilizó postman realizar pruebas API
 -------
 El proyecto debe estar ubicado en la carpeta htdocs que está ubicado en el disco local C en la carpeta Xampp (C:\xampp\htdocs)
 
-![Captura 6]()
+![Captura 6](https://github.com/AlexAndrangoCatota/Web-Services-PHP/blob/main/Capturas%20de%20pantalla/6.-htdocs.jpg?raw=true)
 
 2.2.- Apache
 -------
 Iniciar apache en xampp
 
-![Captura 7]()
+![Captura 7](https://github.com/AlexAndrangoCatota/Web-Services-PHP/blob/main/Capturas%20de%20pantalla/7.-Apache.jpg?raw=true)
 
 2.3.- Ejecutar
 -------
 Abrir el navegador web, abrir la aplicación con la dirección localhost:80/registro-usuarios/registro-usuarios-frontend
 
-![Captura 7]()
+![Captura 8](https://github.com/AlexAndrangoCatota/Web-Services-PHP/blob/main/Capturas%20de%20pantalla/8.-frontend.jpg?raw=true)
 
 Nota: el puerto 80 que se ubica luego de localhost debe ser el que se configuró en Apache 
 
-![Captura 8]()
+![Captura 9](https://github.com/AlexAndrangoCatota/Web-Services-PHP/blob/main/Capturas%20de%20pantalla/9.-puerto80.jpg?raw=true)
 
