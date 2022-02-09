@@ -45,3 +45,13 @@ Iniciar apache en xampp
 
 ![Captura 7]()
 
+2.3.- Ejecutar
+-------
+Abrir el navegador web, abrir la aplicación con la dirección localhost:80/registro-usuarios/registro-usuarios-frontend
+
+![Captura 7]()
+
+Nota: el puerto 80 que se ubica luego de localhost debe ser el que se configuró en Apache 
+
+![Captura 8]()
+
