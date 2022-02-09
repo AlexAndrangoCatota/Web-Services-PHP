@@ -39,13 +39,19 @@ El proyecto debe estar ubicado en la carpeta htdocs que está ubicado en el disc
 
 ![Captura 6](https://github.com/AlexAndrangoCatota/Web-Services-PHP/blob/main/Capturas%20de%20pantalla/6.-htdocs.jpg?raw=true)
 
-2.2.- Apache
+2.2.- Visual code
+-------
+Abrir el proyecto (registro-usuarios) en el IDE Visual Code
+
+![Captura 10]()
+
+2.3.- Apache
 -------
 Iniciar apache en xampp
 
 ![Captura 7](https://github.com/AlexAndrangoCatota/Web-Services-PHP/blob/main/Capturas%20de%20pantalla/7.-Apache.jpg?raw=true)
 
-2.3.- Ejecutar
+2.4.- Ejecutar
 -------
 Abrir el navegador web, abrir la aplicación con la dirección localhost:80/registro-usuarios/registro-usuarios-frontend
 
